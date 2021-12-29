@@ -7,7 +7,7 @@ public class LottoMaxMinRanking {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		Solution sl = new Solution();
+		SolutionLottoMaxMinRanking sl = new SolutionLottoMaxMinRanking();
 
 		int[] answer;		
 		
@@ -29,7 +29,7 @@ public class LottoMaxMinRanking {
 	}
 }
 
-class Solution {
+class SolutionLottoMaxMinRanking {
 	
     public int[] solution(int[] lottos, int[] win_nums) {
     	
